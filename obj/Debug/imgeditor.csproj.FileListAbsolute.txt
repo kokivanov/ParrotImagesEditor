@@ -1,0 +1,6 @@
+C:\Users\kokiv\Desktop\ParrotImagesEditor\obj\Debug\imgeditor.csproj.AssemblyReference.cache
+C:\Users\kokiv\Desktop\ParrotImagesEditor\obj\Debug\imgeditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\kokiv\Desktop\ParrotImagesEditor\obj\Debug\MainWindow.g.cs
+C:\Users\kokiv\Desktop\ParrotImagesEditor\obj\Debug\App.g.cs
+C:\Users\kokiv\Desktop\ParrotImagesEditor\obj\Debug\imgeditor_MarkupCompile.cache
+C:\Users\kokiv\Desktop\ParrotImagesEditor\obj\Debug\imgeditor_MarkupCompile.lref
